@@ -1,2 +1,2 @@
-testing for conflicts, without performing gitpull
+testing for conflicts with git buddies, without performing gitpull
 this is for edit testing
