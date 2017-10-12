@@ -1,4 +1,7 @@
-welcome for git training today
+Hi Everybody
+
+fast commit
 
 This line is written by who --> check it out from git command
 Test Line add by Deepak
+line added by ritto mm
