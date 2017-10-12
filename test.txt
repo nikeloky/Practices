@@ -1,5 +1,6 @@
 testing for conflicts with git buddies, without performing gitpull
 this is for edit testing
 
+write 1 line at a time
 
 - Hello all, This line is added by Preeti
