@@ -1,1 +1,3 @@
 welcome for git training today
+
+This line is written by who --> check it out from git command
