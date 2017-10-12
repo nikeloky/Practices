@@ -6,6 +6,5 @@ Hi Everybody
 fast commit
 >>>>>>> 7ca9eeb8d8908beb424a88a8c373ef88b813cf6b
 
-This line is written by who --> check it out from git command
 Test Line add by Deepak
 line added by ritto mm
