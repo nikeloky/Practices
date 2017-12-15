@@ -1,4 +1,8 @@
 Hi Everybody, Welcome for git training
 today
+<<<<<<< HEAD
 not sample 
 HIIIii
+=======
+not sample Bala ,its complicated
+>>>>>>> 17d226cb1179e4c21544e168c89e1ae021260ced
